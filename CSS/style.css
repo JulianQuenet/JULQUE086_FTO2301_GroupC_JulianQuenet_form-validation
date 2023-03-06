@@ -1,0 +1,13 @@
+::placeholder{
+    color: red;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+}
+
+span{
+    color: red;
+}
