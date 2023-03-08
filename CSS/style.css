@@ -11,3 +11,51 @@ label{
 span{
     color: red;
 }
+
+
+#form{
+    position: absolute;
+    top:10%;
+    left:35%;
+    border: 3px solid black;
+    padding: 10px;
+
+}
+
+h4{
+    text-align: center;
+}
+
+div{
+    margin: 10px;
+}
+
+input#Name, input#add{
+    width: 300px;
+}
+
+input#sub{
+    background-color: lightblue;
+}
+
+#a{
+   margin-left: 60px;
+}
+
+#b{
+    margin-left: 10px;
+}
+
+  
+input#english{
+
+    box-shadow: 0 0 0 1px rgb(255, 255, 255), 0 0 0 2px rgb(158, 158, 158);
+}
+
+textarea{
+    margin-left: 105px;
+}
+
+#txt label{
+    position: absolute;
+}
